@@ -1,1 +1,2 @@
-a new file inside my cloned repo
+
+deleted the first line to test merge with conflicts
