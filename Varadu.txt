@@ -1,1 +1,3 @@
 a new file inside my cloned repo
+
+adding new lines to test merge with conflict
