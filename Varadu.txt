@@ -1,2 +1,3 @@
-
 deleted the first line to test merge with conflicts
+
+adding new lines to test merge with conflict
